@@ -8,7 +8,7 @@
   background-color: black;
   width: 100%;
   margin: 0px 0px;
-  padding: 20px;
+  padding: 5px 20px 15px;
   top: 0px;
   left: 0px;
   z-index: 10;
@@ -71,4 +71,32 @@
   position: relative;
   margin: 5px 5px 200px 5px;
   text-decoration: underline;
+}
+
+#lastbox {
+  width: 80%;
+  margin: 30px auto 100px;
+  position: relative;
+  border: 5px solid rgb(82, 45, 4);
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  margin: 0px 0px;
+  bottom: 0px;
+  left: 0px;
+  z-index: 10;
+}
+
+#footercontact {
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-family: "Kalam", sans-serif;
+  margin-bottom: 0;
+  color: rgb(245, 184, 18);
+  padding: 0px 0px 7px 0px;
 }
