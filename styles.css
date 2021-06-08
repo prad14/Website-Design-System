@@ -49,7 +49,7 @@
   font-family: "Suez One", sans-serif;
   text-transform: uppercase;
   position: relative;
-  margin: 5px 5px 200px 5px;
+  margin: 5px 5px 5px 5px;
   text-decoration: underline;
 }
 
@@ -78,6 +78,28 @@
   margin: 30px auto 100px;
   position: relative;
   border: 5px solid rgb(82, 45, 4);
+}
+
+.colourbox {
+  display: inline-block;
+  background-color: antiquewhite;
+  position: relative;
+  top: 0px;
+  left: 7px;
+  margin: 30px 10px 30px;
+  width: 160px;
+}
+
+.insidecolourbox {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Gloria Hallelujah", sans-serif;
+}
+
+#coolblue {
+  background-color: #2d5dcc;
+  color: aliceblue;
 }
 
 footer {
