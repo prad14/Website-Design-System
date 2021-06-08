@@ -29,20 +29,46 @@
   font-family: "Kalam", sans-serif;
 }
 
+#firstbox {
+  width: 80%;
+  margin: 150px auto 0px;
+  position: relative;
+  border: 5px solid rgb(82, 45, 4);
+}
+
 .box {
   width: 80%;
-  margin: 150px auto;
+  margin: 30px auto 0px;
   position: relative;
-  border: 5px solid black;
-  border-color: black;
-  padding: 0 0;
+  border: 5px solid rgb(82, 45, 4);
 }
 
 #firstboxheading {
-  font-size: 25px;
+  color: rgb(82, 45, 4);
+  font-size: 30px;
   font-family: "Suez One", sans-serif;
   text-transform: uppercase;
-  display: inline-box;
   position: relative;
   margin: 5px 5px 200px 5px;
+  text-decoration: underline;
+}
+
+#secondboxheading {
+  color: rgb(82, 45, 4);
+  font-size: 30px;
+  font-family: "Suez One", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  margin: 5px 5px 200px 5px;
+  text-decoration: underline;
+}
+
+#thirdboxheading {
+  color: rgb(82, 45, 4);
+  font-size: 30px;
+  font-family: "Suez One", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  margin: 5px 5px 200px 5px;
+  text-decoration: underline;
 }
