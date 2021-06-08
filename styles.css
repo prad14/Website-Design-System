@@ -97,8 +97,33 @@
   font-family: "Gloria Hallelujah", sans-serif;
 }
 
-#coolblue {
-  background-color: #2d5dcc;
+#black {
+  background-color: #000000;
+  color: aliceblue;
+}
+
+#gold {
+  background-color: #af910c;
+  color: rgb(0, 0, 0);
+}
+
+#maroon {
+  background-color: #460707;
+  color: aliceblue;
+}
+
+#darkblue {
+  background-color: #020b41;
+  color: aliceblue;
+}
+
+#royalpurple {
+  background-color: #340646;
+  color: aliceblue;
+}
+
+#darkpink {
+  background-color: #810d55;
   color: aliceblue;
 }
 
