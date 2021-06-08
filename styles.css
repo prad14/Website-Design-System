@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.fheading {
+  text-align: center;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  margin: 0px 0px;
+  padding: 20px;
+  top: 0px;
+  left: 0px;
+}
+
+.fheading h1 {
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-family: "Kalam", sans-serif;
+  margin-bottom: 0;
+}
+
+.contact {
+  display: inline;
+  color: rgb(245, 184, 18);
+  font-size: 15px;
+  font-family: "Kalam", sans-serif;
+}
