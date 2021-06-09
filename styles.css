@@ -158,8 +158,9 @@
   position: relative;
   border: 0px solid black;
   background-color: rgb(245, 240, 235);
-  margin: 5px 5px;
+  margin: 5px 5px 30px 5px;
   padding: 5px 20px 5px 20px;
+  line-height: 20px;
 }
 
 #middle {
@@ -189,6 +190,23 @@
 
 .internalstructure {
   text-align: center;
+}
+
+#kalamcontent {
+  font-family: "Kalam", sans-serif;
+}
+
+#Suezcontent {
+  font-family: "Suez One", sans-serif;
+}
+
+#Gloriacontent {
+  font-family: "Gloria Hallelujah", sans-serif;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(182, 36, 170);
 }
 
 footer {
