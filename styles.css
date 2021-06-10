@@ -71,7 +71,7 @@
   font-family: "Suez One", sans-serif;
   text-transform: uppercase;
   position: relative;
-  margin: 5px 5px 200px 5px;
+  margin: 5px 5px 20px 5px;
   text-decoration: underline;
 }
 
@@ -207,6 +207,30 @@
 a:visited {
   text-decoration: none;
   color: rgb(182, 36, 170);
+}
+
+#thirdmaincontent {
+  text-align: center;
+}
+
+.lastboxcontainer {
+  display: inline-block;
+  width: 20%;
+  position: relative;
+  border: 5px solid black;
+  line-height: 5px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#headerlastbox {
+  margin-left: 10%;
+}
+
+#lastheaderstyle {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px 0;
 }
 
 footer {
